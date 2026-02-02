@@ -1,50 +1,36 @@
-#if you can save into onedrive, go to onedrive-->documents
-#save your file as "first_note"
+# If you can save into OneDrive, go to OneDrive --> Documents
+# Save your file as "first_note"
 
-#if you cannot save into onedrive, go to documents
-#save your file as "first_note"
+# If you cannot save into OneDrive, go to Documents
+# Save your file as "first_note"
 
-#let's begin
-#what is programming? Programming is more like a platform between
-#human and computer
+# Let's begin
 
-#human gives instruction to computer in the form of programming, and computer
-#will execute the instruction
+# What is programming?
+# Programming is the process of giving instructions to a computer.
 
-#what does programming-->change from human command to computer instruction
+# Humans give instructions to a computer using programming languages,
+# and the computer executes (runs) those instructions.
 
-#we have many many programming language--java, C++, assembly language, python
+# Programming converts human ideas or commands into instructions
+# that a computer can understand.
 
-#some programming languages are called "low level" programming language
-#example-->assembly language
-#harder to understand by human, but easier to be understood by computer
+# There are many programming languages such as:
+# Python, Java, C++, and Assembly Language.
 
-#some programming languages are called "high level" programming language
-#example-->python
-#needs more translation so computer can understand it, but easier to be understood
-#from human
+# Some programming languages are called "low-level" languages.
+# Example: Assembly Language
+# They are closer to machine language,
+# harder for humans to understand, but faster and more direct for computers.
 
-#next part
-#where do we write our program on?
-#we write it on IDE--integrated development environment
-#it helps your programming experience to be much smoother
+# Some programming languages are called "high-level" languages.
+# Example: Python
+# They are easier for humans to read and write,
+# but need to be translated before the computer can understand them.
 
-# # is a speical comment, it tells the computer that this is a comment
-# and disregard it
+# Where do we write our programs?
+# We write programs using an IDE (Integrated Development Environment).
+# An IDE helps us write, run, and debug our code more easily.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# In Python, the symbol # is used for comments.
+# Comments are ignored by the computer and are meant for humans to read.
